@@ -14,7 +14,7 @@ let sketch_width = container.clientWidth;
 
 
 function preload() {
-  img = loadImage('/images/letter_n_glitch_v2.png');
+  img = loadImage('images/letter_n_glitch_v2.png');
 }
 
 function setup() {
